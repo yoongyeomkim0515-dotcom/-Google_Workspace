@@ -9,7 +9,7 @@
 
 - 프로젝트명: 테스트2 (antigravity-workspace)
 - 구성: AI 에이전트 규칙/스킬 템플릿 프로젝트
-- 원격 저장소: https://github.com/yoongyeomkim0515-dotcom/-Antigravity_Workspace
+- 원격 저장소 (origin): https://github.com/yoongyeomkim0515-dotcom/-Google_Workspace
 - 주요 파일:
   - `.agents/rules/` — 에이전트 행동 규칙 (harness, safety, .clinerules)
   - `.agents/skills/` — 스킬 정의 (api-review, frontend-polish, python-refactor, project-idea-generator)
@@ -27,6 +27,7 @@
 | 2026-05-13 | `README.md` 추가 및 push 완료 (rebase로 원격 충돌 해결) |
 | 2026-05-13 | 전체 파일 점검 완료 — W1~W4, B1 총 5건 발견 및 전부 해결 |
 | 2026-05-13 | `project-idea-generator` 스킬 추가 완료 |
+| 2026-05-13 | 원격 저장소를 Google_Workspace 단일 origin으로 변경 (Antigravity_Workspace 제거) |
 
 ---
 
