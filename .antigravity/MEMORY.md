@@ -57,7 +57,9 @@
 | 2026-05-13 | `ee7e251` | `.kilocode/.gitignore` | B1 해결: `package.json` gitignore 제거 |
 | 2026-05-13 | `f9df9a7` | `.kilocode/package.json` | W4 해결: `@kilocode/plugin 7.2.52` 의존성 파일 생성 |
 | 2026-05-13 | `f01196c` | `.vscode/settings.json` | W3 해결: 미사용 Snyk 설정 제거 |
-| 2026-05-13 | -         | `.agents/skills/project-idea-generator/SKILL.md` | 프로젝트 아이디어 3개 생성 스킬 추가 |
+| 2026-05-13 | `ca3eb0e` | `.agents/skills/project-idea-generator/SKILL.md` | 프로젝트 아이디어 3개 생성 스킬 추가 |
+| 2026-05-13 | `64a6ed9` | `.antigravity/MEMORY.md` | origin 변경 이력 반영 |
+| 2026-05-13 | `fa1d9b0` | `README.md` | project-idea-generator 스킬 항목 추가 |
 
 ---
 
@@ -72,6 +74,9 @@
 | `ee7e251` | fix: remove package.json from .kilocode/.gitignore |
 | `f9df9a7` | feat: add .kilocode/package.json with plugin dependency |
 | `f01196c` | chore: remove unused Snyk setting from .vscode/settings.json |
+| `ca3eb0e` | feat: project-idea-generator 스킬 추가 |
+| `64a6ed9` | docs: MEMORY.md origin 변경 이력 반영 |
+| `fa1d9b0` | docs: README.md에 project-idea-generator 스킬 추가 |
 
 ---
 
