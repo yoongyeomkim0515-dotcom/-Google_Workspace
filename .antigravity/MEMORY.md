@@ -12,7 +12,7 @@
 - 원격 저장소: https://github.com/yoongyeomkim0515-dotcom/-Antigravity_Workspace
 - 주요 파일:
   - `.agents/rules/` — 에이전트 행동 규칙 (harness, safety, .clinerules)
-  - `.agents/skills/` — 스킬 정의 (api-review, frontend-polish, python-refactor)
+  - `.agents/skills/` — 스킬 정의 (api-review, frontend-polish, python-refactor, project-idea-generator)
   - `.kilocode/` — Kilocode 플러그인 설정
   - `README.md` — 프로젝트 문서
 
@@ -26,6 +26,7 @@
 | 2026-05-13 | `git init` 후 GitHub 원격 저장소 연결 및 초기 push 완료 |
 | 2026-05-13 | `README.md` 추가 및 push 완료 (rebase로 원격 충돌 해결) |
 | 2026-05-13 | 전체 파일 점검 완료 — W1~W4, B1 총 5건 발견 및 전부 해결 |
+| 2026-05-13 | `project-idea-generator` 스킬 추가 완료 |
 
 ---
 
@@ -51,11 +52,11 @@
 | 2026-05-13 | `db5d6ed` | `Antigravity harness Protocol.clinerules` | 자율 실행 범위를 테스트·린트로 한정, 위험 명령 승인 필요 규칙 명시 |
 | 2026-05-13 | `db5d6ed` | `.agents/skills/*/SKILL.md` (3개) | `description` 필드를 한국어로 통일 |
 | 2026-05-13 | `ed03b47` | `README.md` | 프로젝트 문서 최초 생성 |
-| 2026-05-13 | `d0e8192` | `.antigravity/MEMORY.md`, `requirements-dev.txt` | W1 해결: MEMORY.md 생성, W2 해결: ruff+pytest 의존성 추가 |
 | 2026-05-13 | `c40b3ee` | `README.md` | 프로젝트 구조·규칙·스킬·의존성 문서화 |
 | 2026-05-13 | `ee7e251` | `.kilocode/.gitignore` | B1 해결: `package.json` gitignore 제거 |
 | 2026-05-13 | `f9df9a7` | `.kilocode/package.json` | W4 해결: `@kilocode/plugin 7.2.52` 의존성 파일 생성 |
 | 2026-05-13 | `f01196c` | `.vscode/settings.json` | W3 해결: 미사용 Snyk 설정 제거 |
+| 2026-05-13 | -         | `.agents/skills/project-idea-generator/SKILL.md` | 프로젝트 아이디어 3개 생성 스킬 추가 |
 
 ---
 
